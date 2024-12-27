@@ -1,3 +1,5 @@
+![Header](imgs/st_louis_banner_small.jpg)
+
 # Home
 
 Welcome to the Parents’ Association website of the St Louis Primary Schools in Rathmines, Dublin.
