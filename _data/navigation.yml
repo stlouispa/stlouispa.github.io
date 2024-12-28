@@ -2,7 +2,7 @@ main:
   - title: "About Us"
     url: /about
   - title: "Contact Us"
-    url: /contact
+    url: /contact/
   - title: "News"
     url: /news
   - title: "Events"
