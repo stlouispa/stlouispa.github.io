@@ -1,4 +1,10 @@
-# About Us
+---
+title: About Us
+layout: single
+permalink: /about/
+header:
+  image: /assets/images/st_louis_banner_small.jpg
+---
 
 The Parent Association (PA) is the structure through which parents and guardians in St. 
 Louis Infant and Senior Primary Schools can work together for the best possible education of our children. 
