@@ -45,4 +45,4 @@ Congratulations to all our winners and special mentions:
 Students artworks were displayed across our neighbourhood in the windows of: Bow & Baby, Maread O’Leary Opticians, Hopsack, all in the Swan Centre; Alan Hanna’s Bookshop, Rathmines Library , and on the green.
 
 ![Art comp image 1](/assets/images/art_competition/art-comp-1.jpeg)
-![Art comp image 2](/assets/images/art_competition/art-comp-1.jpeg)
+![Art comp image 2](/assets/images/art_competition/art-comp-2.jpeg)
