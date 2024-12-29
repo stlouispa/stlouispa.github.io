@@ -1,7 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-title: "St Louis PA"
+title: "St Louis Parents Association"
 logo: "/assets/images/st_louis_logo.png"
+payments_link: "https://pay.easypaymentsplus.com/feepay1v2.aspx?id=885"
+payments_logo: "/assets/images/easy_payments_logo.png"
 atom_feed:
   hide: true
 plugins:

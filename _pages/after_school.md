@@ -1,4 +1,7 @@
 ---
+layout: single
+sidebar:
+  nav: "links"
 permalink: /after-school/
 title: After School
 header:

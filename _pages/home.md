@@ -1,6 +1,11 @@
 ---
+layout: single
+sidebar:
+  nav: "links"
 permalink: /
 layout: single
+sidebar:
+  nav: "links"
 header:
   image: /assets/images/st_louis_banner_small.jpg
 ---

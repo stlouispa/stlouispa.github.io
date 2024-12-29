@@ -1,6 +1,8 @@
 ---
 title: About Us
 layout: single
+sidebar:
+  nav: "links"
 permalink: /about/
 header:
   image: /assets/images/st_louis_banner_small.jpg

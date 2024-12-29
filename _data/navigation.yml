@@ -1,4 +1,11 @@
 main:
+  # - title: "Easy Payment Plus"
+  #   image: assets/images/easy_payments_logo.png 
+  #   url: /about
+
+links:
+  - title: "Home"
+    url: /
   - title: "About Us"
     url: /about
   - title: "Contact Us"
@@ -15,3 +22,6 @@ main:
     url: /competitions
   - title: "FAQ"
     url: /faq
+  - title: "Easy Payments Plus"
+    url: https://pay.easypaymentsplus.com/feepay1v2.aspx?id=885
+

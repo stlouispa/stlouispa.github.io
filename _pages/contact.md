@@ -1,4 +1,7 @@
 ---
+layout: single
+sidebar:
+  nav: "links"
 title: Contact Us
 permalink: /contact/
 header:

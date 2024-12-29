@@ -1,4 +1,7 @@
 ---
+layout: single
+sidebar:
+  nav: "links"
 permalink: /photos/
 title: Photos
 header:
