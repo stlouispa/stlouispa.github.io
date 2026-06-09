@@ -116,12 +116,32 @@ spacing/indentation exactly as the other entries.
 
 ## If you make a mistake
 
-Nothing is ever truly lost. To undo a change:
+Nothing is ever truly lost — every saved version of every page is kept, so you
+can always put a page back the way it was. There are two ways to fix a mistake.
 
-1. Click the **Commits** link (the clock/history icon) near the top of the page.
-2. Find your change in the list, open it, and you can see exactly what changed.
-3. If you need help reverting, contact whoever set this site up — they can roll
-   it back in seconds.
+### The easy fix (for a small typo)
+Just edit the page again: open the file, click the **pencil ✏️**, correct the
+text, and **Commit changes**. For most small mistakes this is all you need.
+
+### Putting a whole page back to an earlier version
+If you've made a bigger mess and want the page exactly as it was before:
+
+1. Open the page file you changed (for example, click `_pages/home.md`).
+2. Click the **History** button at the **top-right of the file**. You'll see a
+   list of every saved version, newest at the top.
+3. Click the version from **just before** your change. GitHub shows what changed —
+   removed text in red, added text in green — so you can confirm it's the right one.
+4. On that screen, find the file name and click the **•••** button beside it, then
+   choose **View file**. This shows the page exactly as it was at that time.
+5. Click the **copy icon** (📋 "Copy raw file") at the top of the text to copy the
+   whole old version.
+6. Go back to the current page file, click the **pencil ✏️**, select everything in
+   the box and delete it, then **paste** what you copied.
+7. Click **Commit changes**. The page is now back to the older version, and the
+   live site will update within about a minute.
+
+If you're ever unsure, the PA committee can help — but the steps above are all it
+takes.
 
 ---
 
