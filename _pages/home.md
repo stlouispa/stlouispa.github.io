@@ -3,9 +3,6 @@ layout: single
 sidebar:
   nav: "links"
 permalink: /
-layout: single
-sidebar:
-  nav: "links"
 header:
   image: /assets/images/st_louis_banner_small.jpg
 ---
@@ -15,7 +12,7 @@ Welcome to the Parents’ Association website of the St Louis Primary Schools in
 The Parent Association (PA) acts as the voice of parents and guardians in St. Louis Infant and Senior Primary Schools. 
 We work closely with the Principals of both schools to build an effective partnership between the home and school.
 
-The PA two main tasks are to represent parents and guardians on matters relating to the school and to run events and activities to help children and parents get more involved at the school.
+The PA’s two main tasks are to represent parents and guardians on matters relating to the school and to run events and activities to help children and parents get more involved at the school.
 
 You will find lots of information [about the PA](/about/) and the [events](/events/) we run during the school year. 
 Do [contact us](/contact/) if you have any feedback or if you’d like to get more involved with the PA!
