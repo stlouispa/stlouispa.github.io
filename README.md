@@ -9,6 +9,23 @@ the live site updates itself automatically within about a minute.
 
 ---
 
+## Signing in (first time)
+
+The website is managed through a **shared Parents Association GitHub account** —
+you do not need your own personal account.
+
+1. Get the username and password for the PA's GitHub account from the previous
+   website coordinator (it should be kept in the PA handover document).
+2. Go to **[github.com/login](https://github.com/login)** and sign in with those details.
+3. Open the website's files at
+   **[github.com/stlouispa/stlouispa.github.io](https://github.com/stlouispa/stlouispa.github.io)**.
+4. You're ready — follow "How to make a change" below.
+
+> 🔑 Keep the login details safe and pass them on to the next coordinator at
+> handover time. If you ever can't sign in, contact the PA committee.
+
+---
+
 ## How to make a change
 
 1. Go to the file you want to edit (see the guide below for which file).
