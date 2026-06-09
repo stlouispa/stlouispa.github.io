@@ -40,7 +40,7 @@ you do not need your own personal account.
 5. Wait about a minute, then refresh **[stlouispa.org](https://stlouispa.org)** to see it live.
 
 > Tip: If something looks wrong after an edit, don't panic. Every change is saved
-> in history and can be undone — see "If you make a mistake" at the bottom.
+> in history and can be undone — see "If you make a mistake" at the bottom of the page.
 
 ---
 
